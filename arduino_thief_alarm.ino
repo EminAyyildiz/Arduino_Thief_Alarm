@@ -1,3 +1,5 @@
+// Written by Emin Ayyıldız
+
 const int green = 3;
 const int red = 4;
 const int pir_sensor = 2;
